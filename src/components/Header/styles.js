@@ -20,7 +20,7 @@ export const Container = styled.div`
     img {
       margin-right: 20px;
       padding-right: 20px;
-      border-right: 1px solid #eee;
+      border-right: 1px solid #ddd;
     }
 
     a {
@@ -40,7 +40,7 @@ export const Container = styled.div`
   display: flex;
   margin-left: 20px;
   padding-left: 20px;
-  border-left: 1px solid #eee;
+  border-left: 1px solid #ddd;
   
 
   div {
